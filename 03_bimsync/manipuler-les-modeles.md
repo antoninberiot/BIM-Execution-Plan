@@ -56,10 +56,25 @@ Une fois le plan de coupe sélectionné, cliquer et maintenez appuyé le bouton 
 
 ![](/03_bimsync/manipuler-les-modeles-images/manipuler-les-modeles-images-11.png)
 
+### Comment faire des métrés ?
+
+Pour mesure des éléments, bimsync dispose de 2 outils de mesure. Pour les utiliser, cliquer sur l’icône se trouvant la plus a gauche des 3 icone en haut à droite de l’écran. Puis choisir l’outil qui convient le mieux : la règles ou le laser.
+
+!\[\]\(/assets/tuto bimsync + 4''.PNG\)
+
+Pour utiliser le laser, sélectionner l’outil, puis cliquer contre un mur. Le laser donnera la distance verticale \(hauteur dans le cas d’un mur\), et la distance horizontale \(largeur dans le cas d’un mur\):  
+![](/assets/tuto bimsync + 6.PNG)Pour utiliser la règle, sélectionnez l’outil, puis cliquez une première fois pour définir un point d’origine, et une seconde fois pour définir une extrémité. La règle vous indiquera la distance entre ces deux points:  
+![](/assets/tuto bimsync + 5.PNG)
+
+### Affichage des objets dans le modèle
+
+Il est possible de rendre transparent, voire masquer des objet dans les modèle. Pour cela, il suffit de sélectionné l’objet, puis cliquer sur l’un des bouton en forme d’œil, qui se situent au haut de votre écran. Le bouton de à droite sert à masquer, celui du milieu à rendre transparent, et celui de gauche pour afficher les objets  
+![](/assets/tuto bimsync + 7'.PNG)
+
 ---
 
 ### Pour en savoir plus :
 
-
-Pour savoir comment déposer des modèles en format IFC : [Déposer et gérer les modèles](/03_bimsync/deposer-et-gerer-des-modeles.md)
+Pour savoir comment déposer des modèles en format IFC : [Déposer et gérer les modèles](/03_bimsync/deposer-et-gerer-des-modeles.md)  
 Pour poser et répondre à des questions : [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md)
+

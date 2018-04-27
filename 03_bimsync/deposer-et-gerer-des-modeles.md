@@ -8,7 +8,7 @@ Bimsync permet de déposer des modèles numériques au format IFC 2x3 dans l’u
 
 Pour cela, cliquez sur l’emplacement où vous souhaitez déposer votre modèle, ici « Architecte » \(1\), et cliquez sur « Importer » \(2\):
 
-![](/03_bimsync/deposer-et-gerer-des-modeles-images/deposer-et-gerer-des-modeles-image-01.PNG)
+![](/03_bimsync/deposer-et-gerer-des-modeles-images/deposer-et-gerer-des-modeles-image-01.PNG)  
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/deposer-et-gerer-des-modeles-image-02.PNG)
 
 Une fenêtre apparaît, vous invitant à sélectionner un fichier IFC. Cliquez ensuite sur « Ouvrir »\(3\) :
@@ -33,11 +33,10 @@ Bimsync accèpte des fichiers IFC avec une taille maximale de 512MB. Dans le cas
 
 Compresser le fichier IFC en réduit considérablement la taille:
 
-![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 1.png)
+![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 1.png)  
 Afin de pouvoir charger le fichier compressé sur Bimsync, lors du chargement du modèle, sélectionner «tous les fichiers» dans la boîte de dialogue de l'ouverture des fichiers:
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 3.png)
-
 
 ## Afficher les versions d’un modèle
 
@@ -61,4 +60,6 @@ Il est également possible de télécharger plusieurs modèles simultanément en
 
 * Pour apprendre à naviguer et manipuler les modèles dans l'espace de visualisation 3D : [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md)
 * Pour apprendre à déposer et télécharger des documents : [Déposer et gérer les documents](/03_bimsync/deposer-et-gerer-des-documents.md)
+
+
 
